@@ -113,4 +113,8 @@ Terdapat 3 tabel utama dengan relasi:
 2. `lecturers` - Menyimpan data dosen dengan relasi ke department
 3. `students` - Menyimpan data mahasiswa dengan relasi ke department
 
+# Dokumentasi
+
+
+https://github.com/user-attachments/assets/b195b968-c983-4f3f-bf78-4adcc80cd78c
 
