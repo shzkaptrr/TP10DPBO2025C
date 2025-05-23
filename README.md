@@ -106,6 +106,8 @@ Dibangun dengan:
    - Redirect ke list student
 
 ## Struktur Database
+![image](https://github.com/user-attachments/assets/65912e50-2a68-49c7-8ceb-9ffc6c529bc6)
+
 Terdapat 3 tabel utama dengan relasi:
 1. `departments` - Menyimpan data department
 2. `lecturers` - Menyimpan data dosen dengan relasi ke department
